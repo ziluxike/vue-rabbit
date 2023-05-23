@@ -4,15 +4,9 @@
 
 <template>
   <router-view/>
-  <div class="scss">
-    test scss
-  </div>
 </template>
 
 <style scoped lang="scss">
-.scss {
-  color: $priceColor;
-}
 header {
   line-height: 1.5;
   max-height: 100vh;
